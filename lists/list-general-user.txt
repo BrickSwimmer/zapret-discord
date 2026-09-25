@@ -1,0 +1,3 @@
+# Never leave this file empty
+domain.example.abc
+# BrickSwimmer/zapret-discord f23a143af62a
